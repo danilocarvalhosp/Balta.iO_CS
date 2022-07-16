@@ -1,0 +1,16 @@
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.exe
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.AssemblyReference.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\refint\TextEditor.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\TextEditor\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
