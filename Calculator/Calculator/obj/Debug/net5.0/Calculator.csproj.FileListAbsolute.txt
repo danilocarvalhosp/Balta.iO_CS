@@ -1,0 +1,16 @@
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\refint\Calculator.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
