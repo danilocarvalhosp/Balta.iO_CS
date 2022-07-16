@@ -4,13 +4,14 @@ namespace MyApp
 {
     internal class Program
     {
-        // USANDO GUID: GLOBAL UNIQUE IDENTIFIER
+        // INTERPOLAÇÃO DE STRINGS
         static void Main(string [] args) {
-            var id = Guid.NewGuid();
-            id.ToString();
+            var price = 10.2;
+            var texto1 = "O preço do produto é " + price + " apenas na promoção.";
+            var texto2 = string.Format("O preço do produto é {0} apenas na promoção.", price);
+            var texto3 = $"O preço do produto é {price} apenas na promoção.";
 
-            id = new Guid("de7cc307-0f6a-494c-b3d8-73cff111cff3");            
-            Console.WriteLine(id.ToString().Substring(0, 8));            
+            Console.WriteLine(texto3);
         }
     }
 }
