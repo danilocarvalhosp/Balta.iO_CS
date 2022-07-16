@@ -4,14 +4,18 @@ namespace MyApp
 {
     internal class Program
     {
-        // COMPARAÇÃO DE STRINGS
-        static void Main(string [] args) {
-            var texto1 = "Testando";
-            Console.WriteLine(texto1.CompareTo("Testando"));
-            Console.WriteLine(texto1.CompareTo("testando"));
+        // STARTSWITH E ENDSWITH
+        static void Main(string [] args) { 
+            var texto = "Este texto é um teste";
+            Console.WriteLine(texto.StartsWith("Este"));
+            Console.WriteLine(texto.StartsWith("este", StringComparison.OrdinalIgnoreCase));
+            Console.WriteLine(texto.StartsWith("texto"));
 
-            var texto2 = "Este texto é um teste";
-            Console.WriteLine(texto2.Contains("Teste", StringComparison.OrdinalIgnoreCase));
+            Console.WriteLine("");
+
+            Console.WriteLine(texto.EndsWith("teste"));
+            Console.WriteLine(texto.EndsWith("Teste", StringComparison.OrdinalIgnoreCase));
+            Console.WriteLine(texto.EndsWith("xpto"));
         }
     }
 }
