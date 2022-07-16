@@ -4,14 +4,14 @@ namespace MyApp
 {
     internal class Program
     {
-        // INTERPOLAÇÃO DE STRINGS
+        // COMPARAÇÃO DE STRINGS
         static void Main(string [] args) {
-            var price = 10.2;
-            var texto1 = "O preço do produto é " + price + " apenas na promoção.";
-            var texto2 = string.Format("O preço do produto é {0} apenas na promoção.", price);
-            var texto3 = $"O preço do produto é {price} apenas na promoção.";
+            var texto1 = "Testando";
+            Console.WriteLine(texto1.CompareTo("Testando"));
+            Console.WriteLine(texto1.CompareTo("testando"));
 
-            Console.WriteLine(texto3);
+            var texto2 = "Este texto é um teste";
+            Console.WriteLine(texto2.Contains("Teste", StringComparison.OrdinalIgnoreCase));
         }
     }
 }
