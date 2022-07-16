@@ -1,0 +1,16 @@
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.exe
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.deps.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.runtimeconfig.dev.json
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\bin\Debug\net5.0\EditorHTML.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.AssemblyReference.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfoInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.AssemblyInfo.cs
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.csproj.CoreCompileInputs.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\refint\EditorHTML.dll
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.pdb
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\EditorHTML.genruntimeconfig.cache
+E:\Cursos\C#\Balta.IO\Balta.iO_CS\EditorHTML\EditorHTML\obj\Debug\net5.0\ref\EditorHTML.dll
